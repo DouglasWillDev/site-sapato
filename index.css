@@ -30,6 +30,28 @@ img {
   text-align: center;
 }
 
+.img-largura{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 16px;
+}
+
+.img-vendidos{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 16px;
+}
+
+.img-infantil{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 16px;
+}
+
+
 section img {
   border-radius: 50%;
   padding: 16px;
